@@ -25,10 +25,8 @@ Projet réalisé dans le cadre de ma première année de Bachelor Informatique e
 3. Lancer l'application :
 
 ```
-python nom_du_fichier.py
+python gestion_etudiant_interface.py
 ```
-
-*(remplace `nom_du_fichier.py` par le fichier qui ouvre la fenêtre, par exemple `main.py`)*
 
 ## Aperçu
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b438834-d329-4c64-b0fd-14e5b9633424" />
