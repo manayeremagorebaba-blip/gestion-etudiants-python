@@ -30,10 +30,6 @@ python nom_du_fichier.py
 
 *(remplace `nom_du_fichier.py` par le fichier qui ouvre la fenêtre, par exemple `main.py`)*
 
-## Aperçu
-
-*(Tu peux ajouter ici une capture d'écran de l'application)*
-
 ## Auteur
 
 Réalisé par Mana, étudiant en Bachelor Informatique et Systèmes Digitaux à l'EPSI.
